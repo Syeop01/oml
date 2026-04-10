@@ -77,7 +77,7 @@ def Video(openpath):
         print("Camera Error: Please restart the kernel.")
         return
 
-    print("🚀 Standard Auto-Driving Started!")
+    print("Standard Auto-Driving Started!")
     frame_count = 0
 
     try:
